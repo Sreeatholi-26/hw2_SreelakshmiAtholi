@@ -9,8 +9,6 @@ public class myTicTacToe implements cs3331TicTacToeGame
 {
     cs3331TicTacToeBoard board;
     cs3331TicTacToeController controller;
-    Players playerX;
-    Players playerO;
 
     //Constructor myTicTacToe initializes the game board and controller
     public myTicTacToe() 
