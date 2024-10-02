@@ -33,12 +33,14 @@ To run this project, you need to have the following:
 3. Ensure JavaFX is set up correctly in your project configuration.
 
 ## How to play
+
 1. Players take turns clicking on squares to place their marks (X or O).
 2. The first player to align three marks in a row wins the game.
 3. If all squares are filled without a winner, the game ends in a tie.
 4. Use the restart option to play again.
 
 ## Technologies used
+
 1. Java
 2. JavaFX
 3. Git for version control
