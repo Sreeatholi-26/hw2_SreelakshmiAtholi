@@ -28,7 +28,7 @@ To run this project, you need to have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sreeatholi-26/hw2_SreelakshmiAtholi
+   git clone https://github.com/Sreeatholi-26/hw2_SreelakshmiAtholi.git
 2. Open the project in your preferred IDE (e.g., Visual Studio Code).
 3. Ensure JavaFX is set up correctly in your project configuration.
 
